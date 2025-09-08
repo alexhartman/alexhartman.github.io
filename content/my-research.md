@@ -27,7 +27,7 @@ Alessandro Toppeta - *Journal of the European Economic Association, forthcoming*
 
 
 **Institutions as Perpetrators: Power and Political Violence in Responses to Rape** with
-Milli Lake - *Perspectives on Politics*, forthcoming*
+Milli Lake - *Perspectives on Politics, forthcoming*
 
 
 **[A Field of Her Own? Property Rights and Women’s Agency in Myanmar](https://www.journals.uchicago.edu/doi/10.1086/734236)**  
