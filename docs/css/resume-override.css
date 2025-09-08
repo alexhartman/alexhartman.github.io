@@ -1,15 +1,17 @@
-/* Make the profile image larger, while staying responsive */
+/* Taller oval: keep width, increase height; keep oval with border-radius 50% */
 .img-profile {
-  width: 200px;      /* adjust to taste */
-  height: 200px;     /* keep equal to width for a circle */
-  object-fit: cover; /* crops nicely if not square */
-  max-width: none;   /* override Bootstrap’s max-width */
+  width: 260px;            /* keep your current width (adjust if you like) */
+  height: 340px;           /* increase this to make it taller (try 320–380) */
+  border-radius: 50%;      /* keeps the oval shape */
+  object-fit: cover;       /* fills the oval without letterboxing */
+  object-position: 50% 40%;/* nudge framing: lower number shows more top, higher shows more bottom */
+  max-width: none;
 }
 
-/* On larger screens, make it bigger */
+/* On larger screens, you can use a different (taller) height if you want */
 @media (min-width: 992px) {
   .img-profile {
-    width: 260px;   /* try 240–300px if you want */
-    height: 260px;
+    width: 260px;          /* same width */
+    height: 380px;         /* a bit taller on desktops (tweak to taste) */
   }
 }
