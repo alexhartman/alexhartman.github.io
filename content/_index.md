@@ -15,5 +15,6 @@ Journal of Political Science*, *The Journal of Peace Research*, and *The
 American Political Science Review*.
 
 
-<a href="/cv/Hartman_CV_2025.pdf" target="_blank" rel="noopener">Please find a recent CV here</a>
+[Please find a recent CV here](/cv/Hartman_CV_2025.pdf)
+
 
