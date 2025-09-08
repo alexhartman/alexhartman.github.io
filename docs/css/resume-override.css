@@ -1,17 +1,35 @@
-/* Taller oval: keep width, increase height; keep oval with border-radius 50% */
-.img-profile {
-  width: 260px;            /* keep your current width (adjust if you like) */
-  height: 340px;           /* increase this to make it taller (try 320–380) */
-  border-radius: 50%;      /* keeps the oval shape */
-  object-fit: cover;       /* fills the oval without letterboxing */
-  object-position: 50% 40%;/* nudge framing: lower number shows more top, higher shows more bottom */
-  max-width: none;
+/* Let the sidebar brand area expand so the taller image isn't clipped */
+#sideNav,
+#sideNav .navbar-brand {
+  overflow: visible;
 }
 
-/* On larger screens, you can use a different (taller) height if you want */
+#sideNav .navbar-brand {
+  padding-top: 1.25rem;
+  padding-bottom: 1.25rem;
+  min-height: 420px; /* ensure room for the taller oval */
+}
+
+/* Sidebar portrait: keep width, make it taller (oval) */
+#sideNav .navbar-brand img.img-profile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 260px !important;   /* keep your current width */
+  height: 360px !important;  /* increase to make it taller; try 340–420 */
+  max-width: none !important;
+  max-height: none !important;
+
+  border-radius: 50%;        /* keeps circular/oval shape */
+  object-fit: cover;         /* fill the oval without letterboxing */
+  object-position: 50% 40%;  /* lower value shows more top; higher shows more lower area */
+}
+
+/* Optional: make it a bit taller on large screens */
 @media (min-width: 992px) {
-  .img-profile {
-    width: 260px;          /* same width */
-    height: 380px;         /* a bit taller on desktops (tweak to taste) */
+  #sideNav .navbar-brand img.img-profile {
+    height: 400px !important;  /* adjust to taste */
   }
 }
+
