@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://alexhartman.github.io/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://alexhartman.github.io/categories/</loc>
   </url><url>
-    <loc>/my-projects/</loc>
+    <loc>https://alexhartman.github.io/my-projects/</loc>
   </url><url>
-    <loc>/my-research/</loc>
+    <loc>https://alexhartman.github.io/my-research/</loc>
   </url><url>
-    <loc>/my-teaching/</loc>
+    <loc>https://alexhartman.github.io/my-teaching/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://alexhartman.github.io/tags/</loc>
   </url>
 </urlset>
