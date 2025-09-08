@@ -24,6 +24,8 @@
   border-radius: 50%;        /* keeps circular/oval shape */
   object-fit: cover;         /* fill the oval without letterboxing */
   object-position: 50% 40%;  /* lower value shows more top; higher shows more lower area */
+
+  transform: translateX(-38px); /* shift left ≈ 1cm; tweak this number as needed */
 }
 
 /* Optional: make it a bit taller on large screens */
