@@ -1,0 +1,15 @@
+/* Make the profile image larger, while staying responsive */
+.img-profile {
+  width: 200px;      /* adjust to taste */
+  height: 200px;     /* keep equal to width for a circle */
+  object-fit: cover; /* crops nicely if not square */
+  max-width: none;   /* override Bootstrap’s max-width */
+}
+
+/* On larger screens, make it bigger */
+@media (min-width: 992px) {
+  .img-profile {
+    width: 260px;   /* try 240–300px if you want */
+    height: 260px;
+  }
+}
