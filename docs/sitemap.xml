@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/alex-hartman-working/</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>http://localhost:1313/alex-hartman-working/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/alex-hartman-working/my-projects/</loc>
+    <loc>/my-projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/alex-hartman-working/my-research/</loc>
+    <loc>/my-research/</loc>
   </url><url>
-    <loc>http://localhost:1313/alex-hartman-working/my-teaching/</loc>
+    <loc>/my-teaching/</loc>
   </url><url>
-    <loc>http://localhost:1313/alex-hartman-working/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
