@@ -32,9 +32,11 @@ Studying the impacts of government policy on women's empowerment in Myanmar.
 ### Land Rights and Disputes in Côte d’Ivoire
 **Randomised Evaluation**  
 Studying interventions aimed at reducing land conflict and improving land 
-tenure security for women.  
-[Peace and Recovery 
-Projects](https://poverty-action.org/norms-and-institutions-post-conflict-setting-fostering-inclusive-property-rights-cote-divoire)
+tenure security for women.
+  
+[Peace and Recovery Website](https://poverty-action.org/norms-and-institutions-post-conflict-setting-fostering-inclusive-property-rights-cote-divoire)
+
+[World Bank Concept Note](https://poverty-action.org/sites/default/files/2025-01/What-s-Mine-is-Yours-Pilot-Evidence-from-a-Randomized-Impact-Evaluation-on-Property-Rights-and-Women-s-Empowerment-in-Cote-d-Ivoire.pdf)
 
 ### Community-based Dispute Resolution in Myanmar
 **Policy Research**  
