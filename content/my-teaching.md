@@ -1,5 +1,5 @@
 ---
-title: "My Teaching"
+title: "Teaching"
 draft: false
 ---
 

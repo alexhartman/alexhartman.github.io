@@ -8,25 +8,25 @@
     <language>en-uk</language>
     <atom:link href="https://alexhartman.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My Projects</title>
+      <title>Projects</title>
       <link>https://alexhartman.github.io/my-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alexhartman.github.io/my-projects/</guid>
       <description>&lt;h3 id=&#34;targeting-payments-for-ecosystem-services-ties&#34;&gt;Targeting Payments for Ecosystem Services (TIES)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Randomised Evaluation&lt;/strong&gt;&#xA;Studying the impact of payments for ecosystem services in Liberia.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://projectrg.org/project/lbr-pes/&#34;&gt;PRG Brief&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;psychosocial-support-for-conflict-affected-communities-in-myanmar&#34;&gt;Psychosocial Support for Conflict-Affected Communities in Myanmar&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Randomised Evaluation&lt;/strong&gt;&#xA;Studying the impacts of psychosocial skills in conflict-affected communities in Myanmar.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.elrha.org/resource/policy-brief-strengthening-social-cohesion-through-psychosocial-interventions-in-conflict-affected-myanmar&#34;&gt;ELRHA Brief&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;legal-information-for-refugees-and-asylum-seekers-in-greece&#34;&gt;Legal Information for Refugees and Asylum Seekers in Greece&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Randomised Evaluation&lt;/strong&gt;&#xA;Studying the impacts of providing legal information and empowerment to refugees and asylum seekers in Greece.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://poverty-action.org/protecting-against-exploitation-asylum-seekers-and-refugees-impact-information-provision-greece&#34;&gt;HTRI Project&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My Research</title>
-      <link>https://alexhartman.github.io/my-research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://alexhartman.github.io/my-research/</guid>
-      <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Information on the Move? An Experiment on Supporting Forcibly Displaced People in Greece&lt;/em&gt; with Marine Casalis, Dominik Hangartner and Rodrigo Sanchez-Sienra&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Property Rights and Post-Conflict Recovery: Theory and Evidence from IDP Return Movements in Iraq&lt;/em&gt; with Sigrid Weber&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Asylum Granted: The Social and Economic Effects of Attaining Refugees Status&lt;/em&gt; with Marine Casalis, Dominik Hangartner, Joe Kendall and Rodrigo Sanchez-Sienra&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The Politics of State Supply: Legal Identity in Post-Conflict Societies&lt;/em&gt; with Sigrid Weber and Ala’ Alrababa’h&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Teaching</title>
+      <title>Teaching</title>
       <link>https://alexhartman.github.io/my-teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alexhartman.github.io/my-teaching/</guid>
       <description>&lt;h4 id=&#34;i-teach-the-following-courses-at-ucl&#34;&gt;I teach the following courses at UCL:&lt;/h4&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.ucl.ac.uk/module-catalogue/modules/qualitative-research-methods-POLS0031&#34;&gt;POLS0031&lt;/a&gt;&lt;/strong&gt;: Qualitative Research Methods&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;POLS0080&lt;/strong&gt;: Political Economy of Migration / Migration, Politics and Policy&lt;/p&gt;&#xA;&lt;p&gt;I have also taught classes on research design, experiments, and field research at undergraduate, graduate, PhD and professional levels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>https://alexhartman.github.io/my-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alexhartman.github.io/my-research/</guid>
+      <description>&lt;p&gt; &lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;working-papers&#34;&gt;Working Papers&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Information on the Move? An Experiment on Supporting Forcibly Displaced People in Greece&lt;/em&gt; with Marine Casalis, Dominik Hangartner and Rodrigo Sanchez-Sienra&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Property Rights and Post-Conflict Recovery: Theory and Evidence from IDP Return Movements in Iraq&lt;/em&gt; with Sigrid Weber&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Asylum Granted: The Social and Economic Effects of Attaining Refugees Status&lt;/em&gt; with Marine Casalis, Dominik Hangartner, Joe Kendall and Rodrigo Sanchez-Sienra&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The Politics of State Supply: Legal Identity in Post-Conflict Societies&lt;/em&gt; with Sigrid Weber and Ala’ Alrababa’h&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
