@@ -35,3 +35,17 @@
   }
 }
 
+
+/* Mobile: tighten spacing for list items with paragraphs (e.g., bolded lines) */
+@media (max-width: 576px) {
+  /* If Markdown produced <li><p>…</p></li>, reduce the paragraph’s bottom margin */
+  li > p {
+    margin-bottom: 0.25rem; /* try 0.125rem or 0 if still too roomy */
+  }
+
+  /* Optional: reduce vertical gap between list items themselves */
+  .resume-section .resume-section-content li + li {
+    margin-top: 0.25rem;
+  }
+}
+
