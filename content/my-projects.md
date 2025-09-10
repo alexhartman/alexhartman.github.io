@@ -21,8 +21,9 @@ Studying the impacts of providing legal information and empowerment to refugees 
 
 [HTRI Project](https://poverty-action.org/protecting-against-exploitation-asylum-seekers-and-refugees-impact-information-provision-greece)
 
-* [UNHCR Report](https://data.unhcr.org/en/documents/details/106568)
-* [IPL Brief](https://immigrationlab.org/content/uploads/2024/01/IPL-Home-For-Good-ResearchBrief-2023.pdf)
+[UNHCR Report](https://data.unhcr.org/en/documents/details/106568)
+
+[IPL Brief](https://immigrationlab.org/content/uploads/2024/01/IPL-Home-For-Good-ResearchBrief-2023.pdf)
 
 ### Land Rights in Myanmar
 **Natural Experiment**  
@@ -40,14 +41,12 @@ Projects](https://poverty-action.org/norms-and-institutions-post-conflict-settin
 Exploring how customary dispute resolution mechanisms shape governance and 
 social outcomes in Myanmar.  
 
-### EGAP Metaketa III Natural Resource Governance: Monitoring and Managing 
-Forest Resources in Liberia
+### EGAP Metaketa III Natural Resource Governance: Monitoring and Managing Forest Resources in Liberia
 **Randomised Evaluation**  
 Studying how community monitoring affects forest management and 
 accountability in resource governance.
   
-[EGAP 
-Brief](https://egap.org/project/monitoring-and-managing-forest-resources-in-liberia/)
+[EGAP Brief](https://egap.org/project/monitoring-and-managing-forest-resources-in-liberia/)
 
 ### Community Land Protection Program Evaluation
 **Impact Evaluation**  
