@@ -124,3 +124,19 @@
     height: 180px;           /* a bit taller on desktop */
   }
 }
+/* Force the About banner (cornerstone_banner.jpg) to a shorter height */
+.resume-section .resume-section-content img[src*="/img/about/cornerstone_banner.jpg"] {
+  display: block;
+  width: 100%;
+  height: 140px !important;   /* make smaller; adjust to taste */
+  object-fit: cover;
+  border-radius: 14px;
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 992px) {
+  .resume-section .resume-section-content img[src*="/img/about/cornerstone_banner.jpg"] {
+    height: 180px !important; /* desktop size; adjust to taste */
+  }
+}
+
