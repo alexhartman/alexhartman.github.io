@@ -2,6 +2,9 @@
 title: "About Me"
 draft: false
 ---
+![About banner](/img/about/cornerstone_banner.jpg)
+
+
 My name is Alexandra Hartman. I am a Professor of Political Science and 
 Public Policy at **University College London (UCL)** and a Co-Director of the **[UCL Policy Lab](https://www.ucl.ac.uk/policy-lab/)**. 
 

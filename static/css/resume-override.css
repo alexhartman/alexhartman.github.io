@@ -108,3 +108,19 @@
 .project-card a:hover .project-title {
   text-decoration: underline;
 }
+
+/* About page: style the first image as a banner */
+.resume-section#about .resume-section-content > p:first-of-type img {
+  display: block;
+  width: 100%;
+  height: 260px;             /* adjust to taste: 220–340px */
+  object-fit: cover;         /* neat crop across widths */
+  border-radius: 14px;       /* soft corners */
+  margin-bottom: 1rem;
+}
+
+@media (min-width: 992px) {
+  .resume-section#about .resume-section-content > p:first-of-type img {
+    height: 320px;           /* a bit taller on desktop */
+  }
+}
