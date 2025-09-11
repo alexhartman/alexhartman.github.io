@@ -3,6 +3,21 @@ title: "Projects"
 draft: false
 ---
 
+{{< projects-grid cols="2" >}}
+
+{{< project src="/img/projects/liberia_ties.jpg" alt="Liberia ties" title="Targeting Payments for Ecosystem Services (TIES)" link="https://projectrg.org/project/lbr-pes/" >}}
+Randomised Evaluation. Studying the impact of payments for ecosystem services in Liberia.
+_Outputs:_ [PRG Brief](https://projectrg.org/project/lbr-pes/)
+{{< /project >}}
+
+{{< project src="/img/projects/myanmar_mhpss.jpg" alt="Myanmar land" title="Psychosocial Support for Conflict-Affected Communities in Myanmar" >}}
+Randomised Evaluation. Studying the impacts of psychosocial skills in conflict-affected communities in Myanmar.
+_Outputs:_ [ELRHA](https://www.elrha.org/resource/policy-brief-strengthening-social-cohesion-through-psychosocial-interventions-in-conflict-affected-myanmar)
+{{< /project >}}
+
+{{< /projects-grid >}}
+
+
 ### Targeting Payments for Ecosystem Services (TIES)
 **Randomised Evaluation**
 Studying the impact of payments for ecosystem services in Liberia.
