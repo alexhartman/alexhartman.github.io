@@ -20,6 +20,20 @@ Journal of Political Science*, *The Journal of Peace Research*, and *The
 American Political Science Review*.
 
 
-[Please find a recent CV here](/cv/Hartman_CV_2025.pdf)
+[Please find a recent CV here](/cv/Hartman_CV_2025.pdf) and check out some of my projects below and on the project page. 
+
+{{< projects-grid cols="2" >}}
+
+{{< project src="/img/projects/liberia_ties.jpg" alt="Liberia ties" title="Targeting Payments for Ecosystem Services (TIES)" link="https://projectrg.org/project/lbr-pes/" >}}
+Randomised Evaluation. Studying the impact of payments for ecosystem services in Liberia.
+_More info:_ [PRG Brief](https://projectrg.org/project/lbr-pes/)
+{{< /project >}}
+
+{{< project src="/img/projects/myanmar_mhpss.jpg" alt="Myanmar info" title="Psychosocial Support for Conflict-Affected Communities in Myanmar" link="https://www.elrha.org/resource/policy-brief-strengthening-social-cohesion-through-psychosocial-interventions-in-conflict-affected-myanmar" >}}
+Randomised Evaluation. Studying the impacts of psychosocial skills in conflict-affected communities in Myanmar.
+_More info:_ [ELRHA](https://www.elrha.org/resource/policy-brief-strengthening-social-cohesion-through-psychosocial-interventions-in-conflict-affected-myanmar)
+{{< /project >}}
+
+{{< /projects-grid >}}
 
 
