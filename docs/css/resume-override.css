@@ -140,8 +140,24 @@
   }
 }
 
-/* TEMP: visualize About banner targeting */
+/* About: make the first image a short banner */
 #about img:first-of-type {
-  outline: 3px solid red !important;
+  display: block !important;
+  width: 100% !important;
+  height: 140px !important;   /* MOBILE height – adjust to taste (e.g., 120–160) */
+  object-fit: cover !important;
+  border-radius: 14px !important;
+  margin-bottom: 1rem !important;
 }
+
+/* Desktop height */
+@media (min-width: 992px) {
+  #about img:first-of-type {
+    height: 180px !important; /* DESKTOP height – try 160–220 */
+  }
+}
+
+/* (Optional) crop position: lower % = show more top, higher % = show more bottom */
+/* #about img:first-of-type { object-position: 50% 35% !important; } */
+
 
