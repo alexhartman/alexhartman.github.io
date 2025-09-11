@@ -28,6 +28,15 @@
   transform: translateX(-18px); /* shift left ≈ 1cm; tweak this number as needed */
 }
 
+/* Invisible spacer below page title (first HR in content) */
+.resume-section .resume-section-content > hr:first-of-type {
+  border: none;
+  height: 0;
+  margin-top: 0.75rem;   /* adjust to taste */
+  margin-bottom: 1.25rem;/* adjust to taste */
+}
+
+
 /* Optional: make it a bit taller on large screens */
 @media (min-width: 992px) {
   #sideNav .navbar-brand img.img-profile {
