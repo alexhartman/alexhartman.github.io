@@ -38,7 +38,7 @@ _More info:_ [IPA Website](https://www.poverty-action.org/study/predicting-local
 {{< project src="/img/projects/peace_core.jpg" alt="Liberia billboard" title="Alternative Dispute Resolution in Liberia" link="https://www.poverty-action.org/study/peace-education-rural-liberia" >}}
 Randomised Evaluation. Using alternative dispute resolution training to resolve property disputes 
 and associated violence.
-_More info:_ [Article](https://www.poverty-action.org/study/peace-education-rural-liberia)
+_More info:_ [IPA Website](https://www.poverty-action.org/study/peace-education-rural-liberia)
 {{< /project >}}
 
 
