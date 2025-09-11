@@ -2,7 +2,7 @@
 title: "About Me"
 draft: false
 ---
-![About banner](/img/about/flipchart.jpg)
+![About banner](/img/about/planeview.jpg)
 
 
 My name is Alexandra Hartman. I am a Professor of Political Science and Public Policy at **[University College London (UCL)](https://www.ucl.ac.uk/social-historical-sciences/political-science)** and a Co-Director of the **[UCL Policy Lab](https://www.ucl.ac.uk/policy-lab/)**. 
