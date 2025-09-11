@@ -140,3 +140,8 @@
   }
 }
 
+/* TEMP: visualize About banner targeting */
+#about img:first-of-type {
+  outline: 3px solid red !important;
+}
+
