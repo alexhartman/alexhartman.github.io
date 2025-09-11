@@ -7,28 +7,31 @@ draft: false
 
 {{< project src="/img/projects/liberia_ties.jpg" alt="Liberia ties" title="Targeting Payments for Ecosystem Services (TIES)" link="https://projectrg.org/project/lbr-pes/" >}}
 Randomised Evaluation. Studying the impact of payments for ecosystem services in Liberia.
-_Outputs:_ [PRG Brief](https://projectrg.org/project/lbr-pes/)
+_More info:_ [PRG Brief](https://projectrg.org/project/lbr-pes/)
 {{< /project >}}
 
-{{< project src="/img/projects/myanmar_mhpss.jpg" alt="Myanmar land" title="Psychosocial Support for Conflict-Affected Communities in Myanmar" >}}
+{{< project src="/img/projects/myanmar_mhpss.jpg" alt="Myanmar info" title="Psychosocial Support for Conflict-Affected Communities in Myanmar" link="https://www.elrha.org/resource/policy-brief-strengthening-social-cohesion-through-psychosocial-interventions-in-conflict-affected-myanmar" >}}
 Randomised Evaluation. Studying the impacts of psychosocial skills in conflict-affected communities in Myanmar.
-_Outputs:_ [ELRHA](https://www.elrha.org/resource/policy-brief-strengthening-social-cohesion-through-psychosocial-interventions-in-conflict-affected-myanmar)
+_More info:_ [ELRHA](https://www.elrha.org/resource/policy-brief-strengthening-social-cohesion-through-psychosocial-interventions-in-conflict-affected-myanmar)
 {{< /project >}}
+
+{{< project src="/img/projects/greece_info.jpg" alt="Greece info" title="Legal Information for Refugees and Asylum Seekers in Greece" link="https://poverty-action.org/protecting-against-exploitation-asylum-seekers-and-refugees-impact-information-provision-greece" >}}
+Randomised Evaluation. Studying the impacts of providing legal information and empowerment to refugees and asylum seekers in Greece. 
+_More info:_ [UNHCR Report](https://data.unhcr.org/en/documents/details/106568) · [IPL Brief](https://data.unhcr.org/en/documents/details/106568)
+{{< /project >}}
+
+{{< project src="/img/projects/women_land.jpg" alt="Women land" title="Land Rights and Disputes in Côte d’Ivoire" link="https://poverty-action.org/norms-and-institutions-post-conflict-setting-fostering-inclusive-property-rights-cote-divoire" >}}
+One–two sentences about the project.  
+_More info:_ [Concept Note](https://poverty-action.org/sites/default/files/2025-01/What-s-Mine-is-Yours-Pilot-Evidence-from-a-Randomized-Impact-Evaluation-on-Property-Rights-and-Women-s-Empowerment-in-Cote-d-Ivoire.pdf) · [Peace and Recovery Website](https://poverty-action.org/norms-and-institutions-post-conflict-setting-fostering-inclusive-property-rights-cote-divoire)
+{{< /project >}}
+
+
+
+
 
 {{< /projects-grid >}}
 
 
-### Targeting Payments for Ecosystem Services (TIES)
-**Randomised Evaluation**
-Studying the impact of payments for ecosystem services in Liberia.
- 
-[PRG Brief](https://projectrg.org/project/lbr-pes/)
-
-### Psychosocial Support for Conflict-Affected Communities in Myanmar
-**Randomised Evaluation**
-Studying the impacts of psychosocial skills in conflict-affected communities in Myanmar.
-
-[ELRHA Brief](https://www.elrha.org/resource/policy-brief-strengthening-social-cohesion-through-psychosocial-interventions-in-conflict-affected-myanmar)
 
 ### Legal Information for Refugees and Asylum Seekers in Greece
 **Randomised Evaluation**
