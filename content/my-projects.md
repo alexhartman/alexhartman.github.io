@@ -15,9 +15,9 @@ Randomised Evaluation. Studying the impacts of psychosocial skills in conflict-a
 _More info:_ [ELRHA](https://www.elrha.org/resource/policy-brief-strengthening-social-cohesion-through-psychosocial-interventions-in-conflict-affected-myanmar)
 {{< /project >}}
 
-{{< project src="/img/projects/greece_info.jpg" alt="Greece info" title="Legal Information for Refugees and Asylum Seekers in Greece" link="https://poverty-action.org/protecting-against-exploitation-asylum-seekers-and-refugees-impact-information-provision-greece" >}}
+{{< project src="/img/projects/greece_camp.jpg" alt="Greece info" title="Legal Information for Refugees and Asylum Seekers in Greece" link="https://poverty-action.org/protecting-against-exploitation-asylum-seekers-and-refugees-impact-information-provision-greece" >}}
 Randomised Evaluation. Studying the impacts of providing legal information and empowerment to refugees and asylum seekers in Greece. 
-_More info:_ [UNHCR Report](https://data.unhcr.org/en/documents/details/106568) · [IPL Brief](https://data.unhcr.org/en/documents/details/106568)
+_More info:_ [UNHCR Report](https://data.unhcr.org/en/documents/details/106568) · [IPL Brief](https://immigrationlab.org/content/uploads/2024/01/IPL-Home-For-Good-ResearchBrief-2023.pdf)
 {{< /project >}}
 
 {{< project src="/img/projects/women_land.jpg" alt="Women land" title="Land Rights and Disputes in Côte d’Ivoire" link="https://poverty-action.org/norms-and-institutions-post-conflict-setting-fostering-inclusive-property-rights-cote-divoire" >}}
@@ -45,4 +45,8 @@ _More info:_ [IPA Website](https://www.poverty-action.org/study/peace-education-
 
 
 {{< /projects-grid >}}
+
+---
+
+*Photo credit: “Legal Information for Refugees and Asylum Seekers in Greece” image © Marine Casalis, used with permission.*
 
