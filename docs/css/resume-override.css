@@ -161,3 +161,7 @@
 /* #about img:first-of-type { object-position: 50% 35% !important; } */
 
 
+/* Project card: adjust crop for greece_camp.jpg (show more bottom) */
+.project-card img[src*="/img/projects/greece_camp.jpg"] {
+  object-position: 50% 75%; /* try 70–85%; higher number = more bottom */
+}
